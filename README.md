@@ -1,8 +1,6 @@
 # SmartPlantLink
 
-SmartPlantLink - an IOT project during the semester
-
-Introduction to IOT - prototype
+SmartPlantLink - Introduction to IOT course - an IOT project prototype
 
 By: Benny Shalom & Ruslan Borisevich
 

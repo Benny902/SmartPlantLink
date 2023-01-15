@@ -1,8 +1,11 @@
-# smart-plant-link
-
-Smart Plant Link - Introduction to IOT course - an IOT project prototype
+# smart-plant-link 
 
 By: Benny Shalom & Ruslan Borisevich
+
+Smart Plant Link - Introduction to IOT course  
+
+in progress of implementation with React Native 
+
 
 ![image](https://user-images.githubusercontent.com/73943596/212539126-1851f762-49c4-43e8-8fb7-8bc685f2b385.png)
 ![image](https://user-images.githubusercontent.com/73943596/212539134-cab89421-7e41-4022-83c2-37b09ea8e500.png)

@@ -1,6 +1,6 @@
-# SmartPlantLink
+# smart-plant-link
 
-SmartPlantLink - Introduction to IOT course - an IOT project prototype
+Smart Plant Link - Introduction to IOT course - an IOT project prototype
 
 By: Benny Shalom & Ruslan Borisevich
 

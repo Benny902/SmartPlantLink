@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "smart-plant-link",
+    "slug": "smart-plant-link",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "smart-plant-link"
+}
